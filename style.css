@@ -1,0 +1,108 @@
+.grid {
+  background: rgb(255, 255, 255);
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  text-align: left;
+  flex-wrap: wrap;
+}
+
+.camel {
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 400px;
+  padding: 50px;
+  background-color: #ffffff;
+}
+
+.camel a {
+  padding: 50px;
+}
+
+.chameleon {
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 400px;
+  padding: 50px;
+  background-color: #ffffff;
+}
+
+.chameleon a {
+  padding: 50px;
+}
+
+.cicada {
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 400px;
+  padding: 50px;
+  background-color: #ffffff;
+}
+
+.cicada a {
+  padding: 50px;
+}
+
+.panda {
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 400px;
+  padding: 50px;
+  background-color: #ffffff;
+}
+
+.panda a {
+  padding: 50px;
+}
+
+.pigeon {
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 400px;
+  padding: 50px;
+  background-color: #ffffff;
+}
+
+.pigeon a {
+  padding: 50px;
+}
+
+.teddy {
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 400px;
+  padding: 50px;
+  background-color: #ffffff;
+}
+
+.teddy a {
+  padding: 50px;
+}
+
+.sm {
+  display: flex;
+  justify-content: center;
+}
+
+.sm img {
+  padding: 40px;
+  margin-bottom: -30px;
+}
+
+h1 {
+  text-align: center;
+  color: coral;
+}
